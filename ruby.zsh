@@ -1,3 +1,0 @@
-ZSH_PLUGIN_RUBY_DIR=$ZSH_PLUGINS_DIR/ruby
-
-source $ZSH_PLUGIN_RUBY_DIR/aliases.zsh
